@@ -1,0 +1,15 @@
+.column{
+    margin-left: 150px;
+}
+.contact_us{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+.contact_text{
+ text-align: center;
+}
+#subject{
+    width: 500px;
+    height: 270px;
+}
