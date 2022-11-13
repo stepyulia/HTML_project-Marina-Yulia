@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .column{
     margin-left: 150px;
 }
@@ -12,4 +13,20 @@
 #subject{
     width: 500px;
     height: 270px;
+=======
+.column{
+    margin-left: 150px;
+}
+.contact_us{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+.contact_text{
+ text-align: center;
+}
+#subject{
+    width: 500px;
+    height: 270px;
+>>>>>>> 00c6a9f74a373a7cfd6b033f13d8320a71b0bfdc
 }
